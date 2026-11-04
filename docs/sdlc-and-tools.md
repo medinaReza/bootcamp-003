@@ -1,1 +1,1 @@
-This project uses Java
+Java 17
