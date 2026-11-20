@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: dm2093
+Build-Jdk: 1.8.0_501
+Created-By: Maven Integration for Eclipse
+
